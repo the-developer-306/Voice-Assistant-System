@@ -1,0 +1,9 @@
+DateTime==4.3
+pipwin==0.5.1
+PyAudio
+PyQt5==5.15.4
+pyqt5-tools==5.15.4.3.2
+pyttsx3==2.90
+pywikihow==0.5.7
+SpeechRecognition==3.8.1
+wikipedia==1.4.0
